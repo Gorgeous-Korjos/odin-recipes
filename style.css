@@ -1,0 +1,31 @@
+* {
+    font-family: 'Gill Sans', 'Helvetica', sans-serif;
+    font-size: 20px;
+}
+
+.image-style {
+    text-align: center;
+    height: auto;
+    width: auto;
+}
+
+p {
+    font-size: 24px;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 36px;
+    text-align: center;
+}
+
+.ingredients {
+    font-weight: 500;
+    font-style: italic;
+    list-style-type: none;
+}
+
+#recipe-page-link {
+    font-size: 28px;
+    list-style-type: none;
+}
